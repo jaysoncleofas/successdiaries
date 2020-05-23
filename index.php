@@ -70,6 +70,7 @@
             font-size: 21px;
             font-weight: 600;
             color: #444444;
+            line-height: 1.5;
         }
     </style>
 </head>
