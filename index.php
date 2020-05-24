@@ -1,7 +1,6 @@
 <html>
 
 <head>
-    <title>Jayson Cleofas</title>
     <style>
         body {
             font-family: ProximaNova;
