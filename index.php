@@ -91,6 +91,8 @@
             ];
             echo "<h1 class='title'>".$a[array_rand($a)]."</h1>";
         ?>
+        <p class="description">See the LEMP One-Click Quickstart guide for detailed assistance.</p>
+        <a class="button" href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04">Quickstart Guide</a>
     </div>
 </body>
 
