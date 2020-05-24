@@ -72,6 +72,9 @@
             color: #444444;
             line-height: 1.5;
         }
+        .avoid-clicks {
+            pointer-events: none;
+        }
     </style>
 </head>
 
@@ -91,11 +94,12 @@
             ];
             echo "<h1 class='title'>".$a[array_rand($a)]."</h1>";
         ?>
-        <p class="description">See the LEMP One-Click Quickstart guide for detailed assistance.</p>
-        <a class="button" href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04">Quickstart Guide</a>
-        
-        <a href='https://www.symptoma.it/'>https://www.symptoma.it</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=9497efbcad70aac0c1d82ef3dd7b2e5a63821581'></script>
-        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/691893/t/1"></script>
+        <!-- <p class="description">See the LEMP One-Click Quickstart guide for detailed assistance.</p>
+        <a class="button" href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04">Quickstart Guide</a> -->
+        <div class="avoid-clicks">
+            <a href='https://www.symptoma.it/'>^^</span> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=df25de25d55996d8e3dd266b48bf118005622634'></script>
+            <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/691895/t/5"></script>
+        </div>
     </div>
 </body>
 
